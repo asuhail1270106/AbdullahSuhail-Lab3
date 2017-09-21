@@ -496,3 +496,48 @@ template {
 [hidden] {
   display: none;
 }
+
+body 
+{
+  background-image: url("https://github.com/asuhail1270106/asuhail_Project3/blob/master/pictures/RH.gif?raw=true");
+  background-attachment: fixed;
+  font-family: 'Times New Roman', sans-serif;
+  color: #800000;
+  margin: auto;
+  width: 60%;
+  padding: .50em;
+  font-size: 1.0em;
+}
+
+#bodyspecs
+{
+  margin: .5em;
+  border: .25em solid #98FB98;
+  background-color: #FDF5E6;
+}
+
+h1 
+{
+  color: #191970;
+  text-align: left;
+}
+
+h2
+{
+  color: #4682B4;
+  text-align: left;
+}
+
+h3
+{
+  color: #00008B;
+  text-align: left;
+}
+
+.center
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
