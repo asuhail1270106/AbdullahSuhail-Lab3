@@ -499,7 +499,8 @@ template {
 
 body 
 {
-  background-image: url("https://github.com/asuhail1270106/asuhail_Project3/blob/master/pictures/RH.gif?raw=true");
+  //background-image: url("https://github.com/asuhail1270106/asuhail_Project3/blob/master/pictures/RH.gif?raw=true");
+  backgroud-color: #FFFFF;
   background-attachment: fixed;
   font-family: 'Times New Roman', sans-serif;
   color: #800000;
