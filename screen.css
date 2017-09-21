@@ -516,6 +516,14 @@ body
   background-color: #FDF5E6;
 }
 
+#center
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
 h1 
 {
   color: #191970;
@@ -532,12 +540,4 @@ h3
 {
   color: #00008B;
   text-align: left;
-}
-
-.center
-{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  position: relative;
 }
