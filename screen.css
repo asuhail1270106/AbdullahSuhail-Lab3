@@ -542,3 +542,7 @@ h3
   color: #00008B;
   text-align: left;
 }
+
+@media screen and (max-width:60em) {
+.leftSideBar, .rightSideBar {display:none}
+}
