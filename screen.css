@@ -512,7 +512,8 @@ body
 
 #bodyspecs
 {
-  margin: .5em;
+  margin: auto;
+  width: 50%;
   border: .25em solid #98FB98;
   background-color: #FDF5E6;
 }
